@@ -42,3 +42,15 @@ missing
 rel/
 tmp/
 trace
+m4/libtool.m4
+m4/lt~obsolete.m4
+m4/ltoptions.m4
+m4/ltsugar.m4
+m4/ltversion.m4
+src/Makefile.in
+include/Makefile.in
+lib/daemon/Makefile.in
+lib/Makefile.in
+lib/modules/Makefile.in
+Makefile.in
+src/Makefile.in
