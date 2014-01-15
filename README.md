@@ -1,4 +1,1 @@
-gicht
-=====
-
-GICHT
+obsolete pthread API testbed
